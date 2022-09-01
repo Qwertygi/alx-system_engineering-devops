@@ -1,1 +1,1 @@
-Display the contents list of your current directory.
+Scrip that changes the working directory to the user
