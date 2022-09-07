@@ -1,1 +1,1 @@
-Shell script that creates a file
+Script that writes into a file
